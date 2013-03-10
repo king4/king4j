@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.google.guava:guava:13.0.1">
+    <archive path="/opt/repository/com/google/guava/guava/13.0.1/guava-13.0.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
